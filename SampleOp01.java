@@ -3,7 +3,7 @@ class SampleOp01 {
         System.out.println(12 + 3);
         System.out.println(12 - 14);
         System.out.println(12 * 4);
-        System.out.println(12 / 4);
+        System.out.println(12 / 5);
         System.out.println(12 % 10);
     }
 }
