@@ -1,6 +1,8 @@
 class Test{
     public static void main(String[] args){
-        char x = '10';
+        byte b = 100;
+        int x;
+        x = (short)b;
         System.out.println(x);       
     }
 }
