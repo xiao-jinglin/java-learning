@@ -1,9 +1,11 @@
 class Test{
     public static void main(String[] args){
-        int i = 67;
+        byte b1 = 3;
+        byte b2 = 2;
+        byte b3;
 
-        char c = (char)i;
+        b3 = (byte)(b1 * b2);
 
-        System.out.println(c);       
+        System.out.println(b3);       
     }
 }
