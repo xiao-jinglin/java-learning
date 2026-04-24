@@ -6,6 +6,6 @@ class Test{
 
         b3 = (byte)(b1 * b2);
 
-        System.out.println(b3);       
+        System.out.println(b3 +"12" + 12 * 2);       
     }
 }
