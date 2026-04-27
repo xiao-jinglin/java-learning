@@ -1,11 +1,7 @@
 class Test{
     public static void main(String[] args){
-        byte b1 = 3;
-        byte b2 = 2;
-        byte b3;
+        int a = 1, b = 2, c = 3,d = 4;
 
-        b3 = (byte)(b1 * b2);
-
-        System.out.println(b3 +"12" + 12 * 2);       
+        System.out.println(a + b * c + d);       
     }
 }
