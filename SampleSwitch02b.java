@@ -1,20 +1,17 @@
-class Test {
+class SampleSwitch01b {
     public static void main(String[] args){
-        short x = 0;
+        int x = 5;
 
         switch(x) {
-            case 0:
+            case 1:
                 System.out.println("One");
                 break;
-            case 1:
-                System.out.println("Two");
-                break;
             case 2:
+                System.out.println("Two");
+            case 3:
                 System.out.println("Three");
-                break;
             default:
                 System.out.println("Others");
-                break;
         }
     }
 }
