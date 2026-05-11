@@ -1,4 +1,4 @@
-class SampleSwitch01a {
+class SampleSwitch01b {
     public static void main(String[] args){
         int x = 5;
 
