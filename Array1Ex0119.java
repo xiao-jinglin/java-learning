@@ -55,7 +55,7 @@ class Array1Ex0119 {
                 mix = array5[i];
         }
 
-        System.out.println("→最大値は" + max + "、最小値は" + mix + "です");
+        System.out.println("最大値は" + max + "、最小値は" + mix + "です");
         
         //問題6
         System.out.println("----------問題6----------");
