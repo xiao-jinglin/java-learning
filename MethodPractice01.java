@@ -4,7 +4,7 @@ class MethodPractice01{
         sayHello();
     }
 
-    static void sayHello(){
+    public static void sayHello(){
         System.out.println("Ç±ÇÒÇ…ÇøÇÕÅB");
     }
 }
